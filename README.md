@@ -6,6 +6,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000202014423/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/krasimirova.dd/)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/DanikIvanova)
+<a href="mailto:d.k.ivanova90@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/DaniKIvanova/DaniKIvanova/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
 ### ⚡GitHub Stats
 
