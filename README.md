@@ -12,3 +12,5 @@
 | ------------- | ------------- |
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaniKIvanova" alt="DaniKIvanova" /></a> </p>
+
+[![](https://visitcount.itsvg.in/api?id=DaniKIvanova&label=You%20are%20visitor%20number&color=0&pretty=true)](https://visitcount.itsvg.in)
