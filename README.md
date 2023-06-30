@@ -18,7 +18,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danikivanova" alt="danikivanova" /></a> </p>
 
-## 🐍 Snake eating my contribution graph
-
-![snake gif](https://github.com/DaniKIvanova/DaniKIvanova/blob/output/github-contribution-grid-snake.gif)
-
