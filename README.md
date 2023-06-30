@@ -1,8 +1,7 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Daniela+Ivanova;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DaniKIvanova&label=Profile%20views&color=0e75b6&style=flat" alt="DaniKIvanova" /> </p>
-
+![visitors](https://komarev.com/ghpvc/?username=kalintsenkov)
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000202014423/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/krasimirova.dd/)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/DanikIvanova)
