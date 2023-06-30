@@ -1,5 +1,5 @@
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F73713&background=04090F00&width=435&lines=Hi+there+👋,+I+am+Daniela+Ivanova;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F73713&background=04090F00&vCenter=true&width=435&lines=Hi+there+👋,+I+am+Daniela+Ivanova;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 ![visitors](https://komarev.com/ghpvc/?username=kalintsenkov)
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000202014423/)
