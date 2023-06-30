@@ -20,5 +20,5 @@
 
 ## 🐍 Snake eating my contribution graph
 
-![snake gif](https://github.com/danikivanova/danikivanova/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DaniKIvanova/DaniKIvanova/blob/output/github-contribution-grid-snake.gif)
 
