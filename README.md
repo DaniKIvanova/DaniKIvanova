@@ -16,4 +16,4 @@
 
 ### 🪄 GitHub Trophies
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=DaniKIvanova&rank=-C,-B" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=DaniKIvanova95&row=1)](https://github.com/ryo-ma/github-profile-trophy) <br>
