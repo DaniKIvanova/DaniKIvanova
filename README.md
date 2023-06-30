@@ -16,4 +16,7 @@
 
 ### 🪄 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaniKIvanova95&row=1)](https://github.com/ryo-ma/github-profile-trophy) <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elenagyankova&label=Profile%20views&color=0e75b6&style=flat" alt="elenagyankova" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elenagyankova" alt="elenagyankova" /></a> </p>
+
