@@ -7,7 +7,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/krasimirova.dd/)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/DanikIvanova)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaniKIvanova" alt="DaniKIvanova" /></a> </p>
 
 ### ⚡GitHub Stats
 
