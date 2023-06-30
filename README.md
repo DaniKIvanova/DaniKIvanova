@@ -18,3 +18,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danikivanova" alt="danikivanova" /></a> </p>
 
+
+![snake gif](https://github.com/danikivanova/danikivanova/blob/output/github-contribution-grid-snake.gif)
+
