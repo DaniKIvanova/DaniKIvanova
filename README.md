@@ -7,11 +7,17 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/krasimirova.dd/)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/DanikIvanova)
 
-### ⚡GitHub Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaniKIvanova&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniKIvanova&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaniKIvanova" alt="DaniKIvanova" /></a> </p>
 
-![snake gif](https://github.com/danikivanova/danikivanova/blob/output/github-contribution-grid-snake.gif)
+### ⚡GitHub Stats
+
+![snake gif](https://github.com/DaniKIvanova/DaniKIvanova/blob/output/github-contribution-grid-snake.gif)
+
+<p><img height="160em" img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DaniKIvanova&" alt="DaniKIvanova" /></p>
+
+<p>
+<img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaniKIvanova&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
+
+  <img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniKIvanova&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
+</p>
+<p></p><p></p>
