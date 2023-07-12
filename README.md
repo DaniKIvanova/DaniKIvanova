@@ -27,6 +27,6 @@
  ##
   
  
-![Snake animation](https://github.com/danikivanova/danikivanova/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DaniKIvanova/DaniKIvanova/blob/output/github-contribution-grid-snake.svg)
  
 </div>
