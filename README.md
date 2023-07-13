@@ -13,11 +13,8 @@
 
 <p><img height="160em" img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elenagyankova&" alt="elenagyankova" /></p>
 
-<img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaniKIvanova&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
-
-<img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniKIvanova&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
-</p>
-<p></p><p></p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=danikivanova&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danikivanova&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
 
 ### 🪄 GitHub Trophies
 
