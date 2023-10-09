@@ -9,7 +9,7 @@
 📫 **d.k.ivanova90@gmail.com**
 
 <img width="380" align="right" alt="Github"
-src="https://raw.githubusercontent.com/danikivanova/danikivanova/master/Resources/Icons/developer-girl.gif" 
+src="https://raw.githubusercontent.com/DaniKIvanova/DaniKIvanova/master/Resources/Icons/developer-girl.gif" 
 /> 
 
 
