@@ -1,6 +1,8 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F73713&background=04090F00&vCenter=true&width=435&lines=Hi+there+👋,+I+am+Daniela+Ivanova;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
+<br>
+
 <img width="380" align="right" alt="Github"
 src="https://raw.githubusercontent.com/danikivanova/danikivanova/master/Resources/Icons/developer-girl.gif" 
 /> 
