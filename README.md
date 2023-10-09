@@ -5,7 +5,7 @@
 src="https://raw.githubusercontent.com/danikivanova/danikivanova/master/Resources/Icons/developer-girl.gif" 
 /> 
 
-![visitors](https://komarev.com/ghpvc/?username=kalintsenkov)
+![visitors](https://komarev.com/ghpvc/?username=danikivanova)
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100000202014423/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/krasimirova.dd/)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/DanikIvanova)
